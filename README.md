@@ -49,8 +49,8 @@ This repository includes:
 
 ## 👤 Author
 
-* **Your Name Here**
-* [Your LinkedIn Profile Link](#)
+* **Osagie Uwaiia (Ycee)**
+* [GitHub Profile](https://github.com/ycee002)
 
 ---
 
